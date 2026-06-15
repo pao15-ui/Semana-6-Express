@@ -1,0 +1,5 @@
+POST http://localhost:3000/registro
+Body: {"nombre": "Maria", "mensaje": "Hola comunidad"}
+
+Respuesta del servidor:
+{"estado":"Datos recibidos","nombre":"Maria","mensaje":"Hola comunidad"}

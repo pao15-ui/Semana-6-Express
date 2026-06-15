@@ -1,0 +1,11 @@
+Es importante que las plataformas reciban reportes
+ estructurados porque facilitan el análisis de datos. 
+Cuando la información viene en formato JSON con campos 
+como "tipo" y "descripcion", el sistema puede procesarla automáticamente.
+Esto evita errores de interpretación y permite clasificar 
+incidencias por categoría.
+Además, ayuda a generar estadísticas y reportes para la toma de decisiones.
+Sin estructura, los reportes serían texto libre difícil de filtrar.
+Con datos estructurados, las plataformas pueden responder más rápido a los ciudadanos.
+También mejora la organización de la información comunitaria.
+En conclusión, la estructura hace más eficiente la gestión pública digital.
